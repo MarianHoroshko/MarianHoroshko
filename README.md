@@ -1,7 +1,7 @@
 # Hey, I'm Marian 👋
 
 **Backend & Full-Stack Developer** based in Zabrze, Poland 🇵🇱  
-Have commercial experience building REST APIs and web applications.
+I have commercial experience building REST APIs and web applications.
 
 ---
 
