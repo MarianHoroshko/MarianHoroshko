@@ -14,7 +14,7 @@ I care about clean, readable code and shipping things that actually work. I've c
 ## Skills
 
 **Backend**
-Django · Express.js
+Django · Express.js · ASP.NET Core
 
 **Databases**
 PostgreSQL · MySQL · Redis · SQL query optimization
